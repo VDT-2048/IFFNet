@@ -7,6 +7,9 @@ RGB-T Saliency Map Results can be downloaded at：https://pan.baidu.com/s/1h513-
 # Paper
 https://ieeexplore.ieee.org/abstract/document/10015881
 
+[2023-A Potential Vision-Based Measurements Technology Information Flow Fusion Detection Method Using RGB-Thermal Infrared Images.pdf](https://github.com/VDT-2048/IFFNet/files/13700324/2023-A.Potential.Vision-Based.Measurements.Technology.Information.Flow.Fusion.Detection.Method.Using.RGB-Thermal.Infrared.Images.pdf)
+
+
 # Citation
 K. Song, Y. Bao, H. Wang, L. Huang and Y. Yan, "A Potential Vision-Based Measurements Technology: Information Flow Fusion Detection Method Using RGB-Thermal Infrared Images," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-13, 2023, Art no. 5004813, doi: 10.1109/TIM.2023.3236346.
 
